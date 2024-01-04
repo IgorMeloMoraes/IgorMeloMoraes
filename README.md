@@ -1,8 +1,8 @@
 <!-- Animação em Onda com meu Nome -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=86FF33&height=180&section=header&text=Igor+Moraes&fontSize=30&fontColor=fff&animation=twinkling"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9824F3&height=180&section=header&text=Igor+Moraes&fontSize=30&fontColor=fff&animation=twinkling"/>
 
 <!-- Infomarções em SVG passando em sequencia na tela -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=86FF33&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Moraes+;I'm+27+years+old;I'm+from+Brasil,+Belo+Horizonte/MG;I+study+computer+science+at+Estácio;I'm+an+Intern+at+PRODEMGE+Company;Be+Welcome!+:%29;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9824F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Moraes+;I'm+27+years+old;I'm+from+Brasil,+Belo+Horizonte/MG;I+study+computer+science+at+Estácio;I'm+an+Intern+at+PRODEMGE+Company;Be+Welcome!+:%29;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
