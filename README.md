@@ -10,10 +10,10 @@
 
 <!-- Boxes com infos sobre minhas contribuições e linguagens -->
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IgorMeloMoraes&show_icons=true&count_private=true&hide_border=true&title_color=86FF33&icon_color=86FF33&text_color=c9d1d9&bg_color=0d1117" alt="Igor Moraes github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMeloMoraes&layout=compact&hide_border=true&title_color=86FF33&text_color=86FF33&bg_color=0d1117"/>
+  <img width="49%" height="295px" src="https://github-readme-stats.vercel.app/api?username=IgorMeloMoraes&show_icons=true&count_private=true&hide_border=true&title_color=86FF33&icon_color=86FF33&text_color=c9d1d9&bg_color=0d1117" alt="Igor Moraes github stats"/> 
+  <img width="45%" height="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorMeloMoraes&layout=compact&hide_border=true&title_color=86FF33&text_color=86FF33&bg_color=0d1117"/>
   <br><br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMeloMoraes&theme=bear" width=750  alt="stats graph"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorMeloMoraes&theme=bear" width=850  alt="stats graph"/>
 </div>
 <br><br>
 
