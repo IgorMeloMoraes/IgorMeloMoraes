@@ -60,13 +60,15 @@ Organizo meus aprendizados e anotações em uma organização separada no GitHub
 ![Espanhol](https://img.shields.io/badge/Intermediario-Español-EC5252?style=for-the-badge&logo=Duolingo&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://github.com/user-attachments/assets/e7a23c60-85c5-402d-bc63-688655bff26f" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   Sou Desenvolvedor <strong>Mobile</strong> e atualmente curso o <strong>10º período de Ciências da Computação</strong> na Estácio de Sá. <br><br>
   Tenho me aprofundado em <strong>Mobile</strong>, com foco em <strong>Flutter</strong>. Também venho explorando tecnologias como <strong>Docker</strong>, <strong>Java Boot</strong>, <strong>PostgreSQL</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o caminho mais eficiente — por isso, busco transformar a teoria em prática sempre que possível 🚀
 </p>
+
+
 
 <p align="left">
 </p>
