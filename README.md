@@ -39,10 +39,7 @@
 Organizo meus aprendizados e anotações em uma organização separada no GitHub, chamada [igor-moraes](https://github.com/IgorMoraesMelo). Lá você encontrará repositórios com resumos, desafios resolvidos, anotações de cursos e projetos voltados ao estudo contínuo. Esse espaço me ajuda a acompanhar minha evolução na área de tecnologia e, quem sabe, também servir de apoio para outros devs iniciantes que estão trilhando o mesmo caminho
 
 > Manter esse espaço me ajuda a acompanhar minha evolução e, quem sabe, também ajudar outros devs iniciantes
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
+ 
 
 <!-- Principais Tecnologias e Estudos -->
 ## Tecnologias e linguagens 💻
