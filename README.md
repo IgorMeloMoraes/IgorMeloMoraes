@@ -1,5 +1,7 @@
 <!-- Animação em Onda com meu Nome -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9824F3&height=180&section=header&text=Igor+Moraes&fontSize=30&fontColor=fff&animation=twinkling"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9824F3&height=180&section=header&text=Igor+Moraes&fontSize=30&fontColor=fff&animation=twinkling"/>-->
+
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <!-- Infomarções em SVG passando em sequencia na tela -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9824F3&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Igor+Moraes+;I'm+28+years+old;I'm+from+Brasil,+Belo+Horizonte/MG;I+study+computer+science+at+Estácio;I'm+Developer+Java+at+3ADigitall+Company;Be+Welcome!+:%29;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
